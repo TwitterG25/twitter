@@ -1,0 +1,31 @@
+#Please Modify the Correct Answer::
+# Author: Jay!!!
+
+
+#1) What command is used to count the total number of lines, words, and characters 
+#contained in a file?
+#A. countw
+#B. wcount
+#C. wc
+#D. count p
+#E. None of the above
+#Ans)
+#2)What command is used to remove files?
+#A. dm
+#B. rm
+#C. delete
+#D. erase
+#E. None of the above
+#Ans)
+#3)What command is used to remove the directory?
+#A. rdir
+#B. remove
+#C. rd
+#D. rmdir
+#E. None of the above
+#Ans)
+#4)What command is used with vi editor to delete a single character?
+#A. x
+#B. y
+#C. a
+#D. z

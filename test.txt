@@ -9,14 +9,14 @@
 #C. wc
 #D. count p
 #E. None of the above
-#Ans)
+#Ans) C
 #2)What command is used to remove files?
 #A. dm
 #B. rm
 #C. delete
 #D. erase
 #E. None of the above
-#Ans)
+#Ans)B
 #3)What command is used to remove the directory?
 #A. rdir
 #B. remove

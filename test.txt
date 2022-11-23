@@ -23,7 +23,7 @@
 #C. rd
 #D. rmdir
 #E. None of the above
-#Ans) D
+#Ans) 
 #4)What command is used with vi editor to delete a single character?
 #A. x
 #B. y

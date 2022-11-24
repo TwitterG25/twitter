@@ -17,22 +17,9 @@
 #D. erase
 #E. None of the above
 #Ans)B
-#3)What command is used to remove the directory?
-#A. rdir
-#B. remove
-#C. rd
-#D. rmdir
-#E. None of the above
-#Ans)
-#4)What command is used with vi editor to delete a single character?
-#A. x
-#B. y
-#C. a
-#D. z
+#3)What command is used to remove the direct
 
-Billons!!~deploey
-
-echo "Jesus is Lord" 
+ "Jesus is Lord" 
 
 
 
